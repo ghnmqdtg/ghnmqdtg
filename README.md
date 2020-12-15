@@ -1,6 +1,6 @@
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ghnmqdtg&theme=omni&show_icons=true&count_private=tur&hide_border=true&custom_title=Tweizh's+Github+Stats)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghnmqdtg&theme=omni&layout=compact&card_width=445&count_private=tur&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ghnmqdtg&theme=omni&show_icons=true&count_private=true&hide_border=true&custom_title=Tweizh's+Github+Stats)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghnmqdtg&theme=omni&layout=compact&card_width=445&count_private=true&hide_border=true)
 
 
 <!--
